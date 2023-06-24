@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# [Tugas XII] Form, Event Handling, List Rendering
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Tugas bootcamp PESILAT 2023 ke-9
 
 ## Setup
 
