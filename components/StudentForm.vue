@@ -2,7 +2,7 @@
   <h1 class="text-3xl font-bold mb-4 text-center text-gray-800 p-2">
     {{ title }}
   </h1>
-  <div class="m-auto p-4 w-1/2 bg-sky-300 rounded shadow-slate-500 shadow-md">
+  <div class="m-auto p-4 w-1/2 bg-sky-500 rounded shadow-slate-400 shadow-md">
     <form action="" method="post">
       <div class="mb-2 flex flex-col">
         <label for="nis" class="mb-2">Nomor Induk Siswa:</label>
