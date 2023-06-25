@@ -26,14 +26,13 @@
   export default {
     data() {
       return {
-        title: "Student List",
+        title: 'Student List',
         formData: {
           nis: '',
           nama: '',
           nilaiTugas: 0,
         },
         students: [],
-        sum: 0,
       }
     },
     methods: {
